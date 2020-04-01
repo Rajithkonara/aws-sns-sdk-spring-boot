@@ -2,7 +2,7 @@
 
 This is a sample spring-boot project to demonstrate to send SMS using aws sns and sdk
 
-Blog post - 
+Blog post - https://www.rajith.me/2020/03/send-sms-using-aws-simple-notification.html
 
 ## Requirements
 * Java 8
